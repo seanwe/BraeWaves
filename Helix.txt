@@ -1,0 +1,24 @@
+Helix
+    - radius
+    - theta
+    - z increment
+    - center allign to z axis
+
+Draw
+    def draw(point, theta)
+        x = point * cos(theta)
+        y = point * sin(theta)
+    
+    def drawLine
+        point one: radius theta
+        point two: radius theta
+        dra
+    
+    while(theta >= 2pi)
+        draw: +radius, theta
+        draw: -radius, theta
+        theta--
+        center: z increment
+        
+
+    draw rest
